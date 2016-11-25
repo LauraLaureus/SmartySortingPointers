@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		27221DD41DE8C99100A1EDA2 /* SmartyPointers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SmartyPointers; sourceTree = BUILT_PRODUCTS_DIR; };
+		27221DD41DE8C99100A1EDA2 /* SmartySortingPointers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SmartySortingPointers; sourceTree = BUILT_PRODUCTS_DIR; };
 		27221DD71DE8C99100A1EDA2 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		27221DCB1DE8C99100A1EDA2 = {
 			isa = PBXGroup;
 			children = (
-				27221DD61DE8C99100A1EDA2 /* SmartyPointers */,
+				27221DD61DE8C99100A1EDA2 /* SmartySortingPointers */,
 				27221DD51DE8C99100A1EDA2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,26 @@
 		27221DD51DE8C99100A1EDA2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				27221DD41DE8C99100A1EDA2 /* SmartyPointers */,
+				27221DD41DE8C99100A1EDA2 /* SmartySortingPointers */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		27221DD61DE8C99100A1EDA2 /* SmartyPointers */ = {
+		27221DD61DE8C99100A1EDA2 /* SmartySortingPointers */ = {
 			isa = PBXGroup;
 			children = (
 				27221DD71DE8C99100A1EDA2 /* main.cpp */,
 			);
+			name = SmartySortingPointers;
 			path = SmartyPointers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		27221DD31DE8C99100A1EDA2 /* SmartyPointers */ = {
+		27221DD31DE8C99100A1EDA2 /* SmartySortingPointers */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 27221DDB1DE8C99100A1EDA2 /* Build configuration list for PBXNativeTarget "SmartyPointers" */;
+			buildConfigurationList = 27221DDB1DE8C99100A1EDA2 /* Build configuration list for PBXNativeTarget "SmartySortingPointers" */;
 			buildPhases = (
 				27221DD01DE8C99100A1EDA2 /* Sources */,
 				27221DD11DE8C99100A1EDA2 /* Frameworks */,
@@ -77,9 +78,9 @@
 			);
 			dependencies = (
 			);
-			name = SmartyPointers;
+			name = SmartySortingPointers;
 			productName = SmartyPointers;
-			productReference = 27221DD41DE8C99100A1EDA2 /* SmartyPointers */;
+			productReference = 27221DD41DE8C99100A1EDA2 /* SmartySortingPointers */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -96,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 27221DCF1DE8C99100A1EDA2 /* Build configuration list for PBXProject "SmartyPointers" */;
+			buildConfigurationList = 27221DCF1DE8C99100A1EDA2 /* Build configuration list for PBXProject "SmartySortingPointers" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -108,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				27221DD31DE8C99100A1EDA2 /* SmartyPointers */,
+				27221DD31DE8C99100A1EDA2 /* SmartySortingPointers */,
 			);
 		};
 /* End PBXProject section */
@@ -209,21 +210,21 @@
 		27221DDC1DE8C99100A1EDA2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = SmartySortingPointers;
 			};
 			name = Debug;
 		};
 		27221DDD1DE8C99100A1EDA2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = SmartySortingPointers;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		27221DCF1DE8C99100A1EDA2 /* Build configuration list for PBXProject "SmartyPointers" */ = {
+		27221DCF1DE8C99100A1EDA2 /* Build configuration list for PBXProject "SmartySortingPointers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				27221DD91DE8C99100A1EDA2 /* Debug */,
@@ -232,7 +233,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		27221DDB1DE8C99100A1EDA2 /* Build configuration list for PBXNativeTarget "SmartyPointers" */ = {
+		27221DDB1DE8C99100A1EDA2 /* Build configuration list for PBXNativeTarget "SmartySortingPointers" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				27221DDC1DE8C99100A1EDA2 /* Debug */,

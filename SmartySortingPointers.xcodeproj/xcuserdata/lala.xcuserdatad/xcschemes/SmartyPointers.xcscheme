@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "27221DD31DE8C99100A1EDA2"
-               BuildableName = "SmartyPointers"
-               BlueprintName = "SmartyPointers"
-               ReferencedContainer = "container:SmartyPointers.xcodeproj">
+               BuildableName = "SmartySortingPointers"
+               BlueprintName = "SmartySortingPointers"
+               ReferencedContainer = "container:SmartySortingPointers.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "27221DD31DE8C99100A1EDA2"
-            BuildableName = "SmartyPointers"
-            BlueprintName = "SmartyPointers"
-            ReferencedContainer = "container:SmartyPointers.xcodeproj">
+            BuildableName = "SmartySortingPointers"
+            BlueprintName = "SmartySortingPointers"
+            ReferencedContainer = "container:SmartySortingPointers.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "27221DD31DE8C99100A1EDA2"
-            BuildableName = "SmartyPointers"
-            BlueprintName = "SmartyPointers"
-            ReferencedContainer = "container:SmartyPointers.xcodeproj">
+            BuildableName = "SmartySortingPointers"
+            BlueprintName = "SmartySortingPointers"
+            ReferencedContainer = "container:SmartySortingPointers.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "27221DD31DE8C99100A1EDA2"
-            BuildableName = "SmartyPointers"
-            BlueprintName = "SmartyPointers"
-            ReferencedContainer = "container:SmartyPointers.xcodeproj">
+            BuildableName = "SmartySortingPointers"
+            BlueprintName = "SmartySortingPointers"
+            ReferencedContainer = "container:SmartySortingPointers.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
